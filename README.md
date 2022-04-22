@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatyaProkhorchuk)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KatyaProkhorchuk)](https://github.com/KatyaProkhorchuk/github-profile-trophy)
