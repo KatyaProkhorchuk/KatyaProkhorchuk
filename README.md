@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatyaProkhorchuk)](https://git.io/streak-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatyaProkhorchuk)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=KatyaProkhorchuk)
