@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatyaProkhorchuk)](https://git.io/streak-stats)<br>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
