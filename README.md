@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-<!--
-**KatyaProkhorchuk/KatyaProkhorchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Katya = {
+    pronouns: "She" | "Her",
+    code: ["Python", "C/C++", "Pascal", "Kotlin", "Javascript", "Java", "PHP"],
+    askMeAbout: ["tech", "app dev","student", "photography"],
+    technologies: {
+        devOps: ["Docker🐳"],
+        databases: ["MySql", "sqlite"],
+        misc: ["Firebase","open-cv", "php"]
+    },
+    currentFocus: "Study in university"
+};
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatyaProkhorchuk)](https://git.io/streak-stats)<br>
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatyaProkhorchuk)](https://git.io/streak-stats)<br>-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2014%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1445-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
