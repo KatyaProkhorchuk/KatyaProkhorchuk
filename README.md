@@ -6,7 +6,8 @@
 ```javascript
 const Katya = {
     pronouns: "She" | "Her",
-    code: ["Python", "C/C++", "Pascal", "Kotlin", "Javascript", "Java", "PHP"],
+    code: ["Python", "C/C++", "Pascal", "Kotlin", "Javascript", "Java", "PHP", "HTML", "CSS"],
+    tools: [Make, CMake, Flask, Laravel, React, GTest, PyTest, other]
     askMeAbout: ["tech", "app dev","student", "photography"],
     technologies: {
         devOps: ["Docker🐳"],
