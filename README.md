@@ -6,13 +6,12 @@
 ```javascript
 const Katya = {
     pronouns: "She" | "Her",
-    code: ["C++/C", "Golang", "Python", "Pascal", "Kotlin", "Javascript", "Java", "PHP", "HTML", "CSS"],
+    code: ["C++/C", "Golang", "Python", "Java", "X86","Pascal", "Kotlin", "Javascript", "PHP", "HTML", "CSS"],
     tools: [Make, CMake, Flask, Laravel, React, GTest, PyTest, other]
     askMeAbout: ["tech", "app dev","student", "photography"],
     technologies: {
         devOps: ["Docker🐳"],
         databases: ["MySql", "sqlite", "PostgreSQL", "MongoDB", "DuckDB", "Redis"],
-        misc: ["Firebase","open-cv", "php"]
     },
     currentFocus: "Study in university"
 };
