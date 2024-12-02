@@ -10,7 +10,7 @@ const Katya = {
     tools: [Make, CMake, Flask, Laravel, React, GTest, PyTest, other]
     askMeAbout: ["tech", "app dev","student", "photography"],
     technologies: {
-        devOps: ["Docker🐳"],
+        devOps: ["Docker🐳", "K8s", Jenkins, Ansible],
         databases: ["MySql", "sqlite", "PostgreSQL", "MongoDB", "DuckDB", "Redis"],
     },
     currentFocus: "Study in university"
